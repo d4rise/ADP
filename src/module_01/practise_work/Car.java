@@ -1,4 +1,4 @@
-package module_01.class_work;
+package module_01.practise_work;
 
 public class Car extends Vehicle {
     private int doors;

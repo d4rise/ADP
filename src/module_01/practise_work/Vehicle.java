@@ -1,4 +1,4 @@
-package module_01.class_work;
+package module_01.practise_work;
 
 public abstract class Vehicle {
     protected String brand;
