@@ -4,10 +4,10 @@ public interface IPrinter {
     void print(String content);
 }
 
-public interface ScannerDevice {
-    void scan(String content);
-}
-
-public interface FaxDevice {
-    void fax(String content);
-}
+//public interface ScannerDevice {
+//    void scan(String content);
+//}
+//
+//public interface FaxDevice {
+//    void fax(String content);
+//}
